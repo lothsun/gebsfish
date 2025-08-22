@@ -9,7 +9,7 @@ This mod is meant to create more immersion, and add more to the ecosystem to the
 
 # Features
 
-- We allow very detailed configuration to fishing. The config is created in the your server $profile/gebsfish/fishingsettings.json. 
+- We allow very detailed configuration to fishing. The config is created in the your server $profile/gebs/fishingsettings.json. 
 
 
 - You can define where a fish is caught, salt, fresh or both types of water. How a fish is caught, fish traps or fishing rod. The range of fillets you may get from gutting a fish. The probability of catching said fish as well. If you have any issues with your config please join the discord for troubleshooting. 
